@@ -3,9 +3,9 @@ php:
   - 5.5
 
 before-script:
-    - "mysql -u root -p -e 'create database my_app_test;'"
+    - "mysql -u root -e 'create database my_app_test;'"
 
 script: phpunit Test.php
 
 after_failure:
-  - "mysql -u root -p -e 'show databases;'"
+  - "mysql -u root -e 'show databases;'"
