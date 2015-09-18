@@ -1,5 +1,11 @@
 language: php
 php:
   - 5.5
-before-script:  - mysql -e 'create database testdb;'
+
+before-script:
+    - "mysql -e 'create database my_app_test;'"
+
 script: phpunit Test.php
+
+after_failure:
+  - "mysql -e 'show databases;'"
