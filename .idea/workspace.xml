@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6cf911cc-abd8-4b78-a484-c322563658b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="travis-broken-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,7 +67,7 @@
       <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.26941362" vertical-offset="0" max-vertical-offset="631">
+            <state line="5" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.13470681" vertical-offset="0" max-vertical-offset="631">
               <folding />
             </state>
           </provider>
@@ -251,7 +252,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.26941362" vertical-offset="0" max-vertical-offset="631">
+        <state line="5" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.13470681" vertical-offset="0" max-vertical-offset="631">
           <folding />
         </state>
       </provider>
