@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf911cc-abd8-4b78-a484-c322563658b9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.php" afterPath="$PROJECT_DIR$/Test.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/super.php" afterPath="$PROJECT_DIR$/super.php" />
     </list>
     <ignored path="travis-broken-example.iws" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="super.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/super.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="1" selection-start="265" selection-end="265" vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="605">
+            <state line="17" column="36" selection-start="263" selection-end="263" vertical-scroll-proportion="0.47768596" vertical-offset="0" max-vertical-offset="605">
               <folding />
             </state>
           </provider>
@@ -78,8 +76,8 @@
       <list>
         <option value="$PROJECT_DIR$/autoload.php" />
         <option value="$PROJECT_DIR$/.travis.yml" />
-        <option value="$PROJECT_DIR$/super.php" />
         <option value="$PROJECT_DIR$/Test.php" />
+        <option value="$PROJECT_DIR$/super.php" />
       </list>
     </option>
   </component>
@@ -232,7 +230,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/super.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="265" selection-end="265" vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="605">
+        <state line="17" column="36" selection-start="263" selection-end="263" vertical-scroll-proportion="0.47768596" vertical-offset="0" max-vertical-offset="605">
           <folding />
         </state>
       </provider>

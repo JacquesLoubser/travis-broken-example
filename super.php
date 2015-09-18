@@ -10,8 +10,11 @@ class super {
     }
     public function go()
 {
-    $link = mysql_connect('127.0.0.1', 'root', '')
-    or die('Could not connect: ' . mysql_error());
+    $link = mysqli_connect('127.0.0.1', 'root', '');
+    if(!$link)
+    {
+        return false;
+    }
     return 'Connected successfully';
 }
 } 
