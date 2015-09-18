@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf911cc-abd8-4b78-a484-c322563658b9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.php" afterPath="$PROJECT_DIR$/Test.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/super.php" afterPath="$PROJECT_DIR$/super.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="travis-broken-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Test.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="41" selection-start="184" selection-end="184" vertical-scroll-proportion="0.19669421" vertical-offset="0" max-vertical-offset="605">
+            <state line="7" column="51" selection-start="194" selection-end="194" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="super.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="super.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/super.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="21" selection-start="145" selection-end="145" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="323">
+            <state line="15" column="1" selection-start="265" selection-end="265" vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="605">
               <folding />
             </state>
           </provider>
@@ -57,7 +57,7 @@
       <file leaf-file-name=".travis.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="7" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+            <state line="4" column="41" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
@@ -211,7 +211,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="7" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+        <state line="4" column="41" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
           <folding />
         </state>
       </provider>
@@ -223,16 +223,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/super.php">
+    <entry file="file://$PROJECT_DIR$/Test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="145" selection-end="145" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="323">
+        <state line="7" column="51" selection-start="194" selection-end="194" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.php">
+    <entry file="file://$PROJECT_DIR$/super.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="41" selection-start="184" selection-end="184" vertical-scroll-proportion="0.19669421" vertical-offset="0" max-vertical-offset="605">
+        <state line="15" column="1" selection-start="265" selection-end="265" vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="605">
           <folding />
         </state>
       </provider>
