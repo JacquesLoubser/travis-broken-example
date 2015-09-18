@@ -10,11 +10,13 @@ class super {
     }
     public function go()
 {
-    $link = mysqli_connect('127.0.0.1', 'root', '');
-    if(!$link)
-    {
-        return false;
+    $mysqli = new mysqli("127.0.0.1", "root", "password", "testdb");
+    if ($mysqli->connect_errno) {
+        echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
     }
-    return 'Connected successfully';
+
+    if (!$mysqli->query("INSERT INTO test(id) VALUES (1)")) {
+        echo "Table creation failed: (" . $mysqli->errno . ") " . $mysqli->error;
+    }
 }
 } 
