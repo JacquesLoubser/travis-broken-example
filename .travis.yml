@@ -1,7 +1,5 @@
 language: php
 php:
   - 5.5
-before-script:
-  - mysql -e 'create database testdb;'
-  - mysql -u root testdb < database.sql
+before-script:  - mysql -e 'create database testdb;'
 script: phpunit Test.php
