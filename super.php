@@ -7,4 +7,8 @@ class super {
     {
         $this->no = $no;
     }
+    public function go()
+{
+    return $this->no;
+}
 } 
