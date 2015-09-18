@@ -2,6 +2,6 @@ language: php
 php:
   - 5.5
 before-script:
-  - mysql -c 'create database testdb;' -uroot
-  - mysql testdb < database.sql -uroot
+  - mysql -uroot -e "create database 'testdb'"
+  - mysql -uroot testdb < database.sql
 script: phpunit Test.php

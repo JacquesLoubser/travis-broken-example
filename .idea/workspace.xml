@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf911cc-abd8-4b78-a484-c322563658b9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/super.php" afterPath="$PROJECT_DIR$/super.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="travis-broken-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="super.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="super.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/super.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="47" selection-start="172" selection-end="172" vertical-scroll-proportion="0.3371901" vertical-offset="0" max-vertical-offset="605">
+            <state line="12" column="47" selection-start="172" selection-end="172" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="459">
               <folding>
                 <marker date="1442564687282" expanded="true" signature="355:386" placeholder="INSERT INTO ..." />
               </folding>
@@ -63,10 +63,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="41" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state line="5" column="38" selection-start="127" selection-end="127" vertical-scroll-proportion="0.13470681" vertical-offset="0" max-vertical-offset="631">
               <folding />
             </state>
           </provider>
@@ -86,10 +86,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/autoload.php" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/Test.php" />
         <option value="$PROJECT_DIR$/database.sql" />
         <option value="$PROJECT_DIR$/super.php" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -219,13 +219,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="6" selection-end="27" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="119">
@@ -240,6 +233,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/super.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="47" selection-start="172" selection-end="172" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <marker date="1442564687282" expanded="true" signature="355:386" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="21" selection-start="193" selection-end="193" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="272">
@@ -247,12 +249,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/super.php">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="47" selection-start="172" selection-end="172" vertical-scroll-proportion="0.3371901" vertical-offset="0" max-vertical-offset="605">
-          <folding>
-            <marker date="1442564687282" expanded="true" signature="355:386" placeholder="INSERT INTO ..." />
-          </folding>
+        <state line="5" column="38" selection-start="127" selection-end="127" vertical-scroll-proportion="0.13470681" vertical-offset="0" max-vertical-offset="631">
+          <folding />
         </state>
       </provider>
     </entry>
